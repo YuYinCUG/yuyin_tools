@@ -1,4 +1,4 @@
-[TOC]
+[toc]
 
 # Chromium在linux下的一些快捷键
 ---
@@ -86,6 +86,7 @@
 ---
 ## 文本快捷键
 |快捷键|功能|
+|:-:|:-:|
 |Ctrl C|将突出显示的内容复制到剪贴板中|
 |Ctrl+V或Shift Insert|从剪贴板中粘贴内容|
 |Ctrl+X或Shift Delete|删除突出显示的内容并将其复制到剪贴板中|
